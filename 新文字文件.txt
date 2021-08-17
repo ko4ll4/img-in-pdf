@@ -1,0 +1,1 @@
+pyinstaller -F --icon=my.ico pick_imgs.py
